@@ -1,6 +1,6 @@
 # Pablo — Estudiante de Ingeniería Informática | IA, Deep Learning y Computación Paralela
 
-Estudiante de **Ingeniería Informática** especializado en **Inteligencia Artificial, Deep Learning y Computación Paralela**, orientado al diseño e implementación de sistemas desde sus fundamentos matemáticos hasta su ejecución eficiente en entornos de alto rendimiento.
+Estudiante de **Ingeniería Informática** especializado en **Inteligencia Artificial, Deep Learning y Computación Paralela**, orientado al diseño e implementación de sistemas desde sus fundamentos matemáticos hasta su despliegue eficiente en infraestructuras de alto rendimiento.
 
 Las Palmas de Gran Canaria, España 
 
@@ -9,14 +9,15 @@ Las Palmas de Gran Canaria, España
 ### Líneas de Investigación y Desarrollo Actual
 * **Fundamentos de Deep Learning:** Implementación desde cero de motores de diferenciación automática (*autograd*), arquitecturas neuronales y redes convolucionales para comprender a fondo su comportamiento numérico.
 * **Inteligencia Artificial Aplicada a Medicina:** Desarrollo de modelos probabilísticos y sistemas de visión artificial orientados al diagnóstico asistido y análisis de imagen médica.
-* **Computación de Alto Rendimiento (HPC):** Optimización de algoritmos numéricos y procesamiento intensivo de datos mediante paralelización en memoria compartida con **OpenMP** en C/C++.
+* **Infraestructura de IA y Sistemas:** Diseño de arquitecturas para entrenamiento e inferencia eficiente, gestión de recursos computacionales y optimización del ciclo de vida de modelos en entornos de producción.
+* **Computación de Alto Rendimiento (HPC):** Aceleración de algoritmos numéricos y procesamiento intensivo de datos mediante paralelización en memoria compartida con **OpenMP** en C/C++.
 
 ---
 
 ### Stack Tecnológico
 * **Inteligencia Artificial y Ciencia de Datos:** Python, NumPy, PyTorch, Scikit-learn, Jupyter.
 * **Lenguajes y Alto Rendimiento:** C, C++ (OpenMP), Python, Java.
-* **Herramientas y Entorno de Desarrollo:** Git, GitHub, GCC / Clang, Linux.
+* **Infraestructura y Entorno de Desarrollo:** Git, GitHub, GCC / Clang, Linux, Docker.
 
 ---
 
@@ -41,8 +42,9 @@ Las Palmas de Gran Canaria, España
 * **Sistema RAG sobre Literatura Biomédica:** *Pipeline* de generación aumentada por recuperación para la consulta de artículos científicos con trazabilidad de fuentes y mitigación de alucinaciones.
 * **Agente de Análisis de Datos con Tool Calling:** Sistema autónomo capaz de consultar conjuntos de datos, ejecutar análisis estadísticos y generar informes técnicos automatizados.
 
-**Computación Paralela y Alto Rendimiento**
+**Computación Paralela e Infraestructura de IA**
 * **Aceleración de Operaciones Matriciales y Convoluciones:** Implementación en `C/C++` con directivas **OpenMP** (`#pragma omp parallel for`, cláusulas de reducción y estrategias de planificación estática/dinámica) para la paralelización de multiplicación de matrices y filtros espaciales, incluyendo evaluación empírica de *speedup* y escalabilidad por número de hilos.
+* **Servicio de Inferencia de Modelos Contenedorizado:** Despliegue de modelos de visión artificial mediante API REST y contenedores reproducible en Linux, evaluando latencia, *throughput* y consumo de memoria.
 
 ---
 
@@ -53,4 +55,4 @@ Las Palmas de Gran Canaria, España
 ---
 
 ### Contacto
-Abierto a oportunidades de prácticas, colaboración en proyectos de investigación en IA, análisis de datos biomédicos o computación de alto rendimiento.
+Abierto a oportunidades de prácticas, colaboración en proyectos de investigación en IA, infraestructura de aprendizaje automático o computación de alto rendimiento.
