@@ -53,4 +53,4 @@ Las Palmas de Gran Canaria, España
 ---
 
 ### Contacto
-Abierto a oportunidades de prácticas, colaboración en proyectos de investigación en IA, análisis de datos biomédicos o computación de alto rendimiento. Puedes contactar a través de **[LinkedIn](https://linkedin.com)** o por correo electrónico en **[tu@email.com](mailto:tu@email.com)**.
+Abierto a oportunidades de prácticas, colaboración en proyectos de investigación en IA, análisis de datos biomédicos o computación de alto rendimiento.
