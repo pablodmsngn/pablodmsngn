@@ -1,57 +1,45 @@
-# Hola, soy Pablo 👋
+# Pablo — Inteligencia Artificial, Deep Learning y Computación Paralela
 
-Desarrollador enfocado en **Inteligencia Artificial, Deep Learning y Computación Paralela**, apasionado por construir sistemas desde sus fundamentos matemáticos hasta aplicaciones de alto rendimiento.
+Desarrollador especializado en **Inteligencia Artificial, Deep Learning y Computación Paralela**, orientado al diseño e implementación de sistemas desde sus fundamentos matemáticos hasta su ejecución eficiente en entornos de alto rendimiento.
 
-📍 Las Palmas de Gran Canaria, España • 💼 [Enlace a LinkedIn] • ✉️ [tu@email.com]
-
----
-
-### 🚀 Enfoque Actual
-- 🧠 Implementando arquitecturas de **Deep Learning desde cero** (motores de diferenciación automática, redes neuronales y CNNs).
-- 🏥 Explorando **IA aplicada a medicina**, comenzando por modelos probabilísticos y clasificación de imágenes médicas.
-- ⚡ Optimizando cómputo numérico y procesamiento de datos mediante **programación paralela con OpenMP** en C/C++.
+Las Palmas de Gran Canaria, España
 
 ---
 
-### 🛠️ Stack Técnico
-
-- **IA y Data Science:** Python, NumPy, PyTorch, Scikit-learn, Jupyter Notebooks.
-- **Lenguajes y Alto Rendimiento:** C / C++ (**OpenMP**), Python, Java.
-- **Herramientas y Control de Versiones:** Git, GitHub, GCC/Clang.
+### Líneas de Investigación y Desarrollo Actual
+* **Fundamentos de Deep Learning:** Implementación desde cero de motores de diferenciación automática (*autograd*), arquitecturas neuronales y redes convolucionales para comprender a fondo su comportamiento numérico.
+* **Inteligencia Artificial Aplicada a Medicina:** Desarrollo de modelos probabilísticos y sistemas de visión artificial orientados al diagnóstico asistido y análisis de imagen médica.
+* **Computación de Alto Rendimiento (HPC):** Optimización de algoritmos numéricos y procesamiento intensivo de datos mediante paralelización en memoria compartida con **OpenMP** en C/C++.
 
 ---
 
-### 📌 Proyectos Publicados
+### Stack Tecnológico
+* **Inteligencia Artificial y Ciencia de Datos:** Python, NumPy, PyTorch, Scikit-learn, Jupyter.
+* **Lenguajes y Alto Rendimiento:** C, C++ (OpenMP), Python, Java.
+* **Herramientas y Entorno de Desarrollo:** Git, GitHub, GCC / Clang, Linux.
+
+---
+
+### Proyectos Destacados
 
 | Proyecto | Descripción | Tecnologías | Enfoque Técnico |
 | :--- | :--- | :--- | :--- |
-| **[mini-autodiff-engine](https://github.com)** | Motor minimalista de diferenciación automática (*autograd*) construido desde cero. | `Python` `Jupyter` | Grafos computacionales, *backpropagation* y cálculo de gradientes. |
-| **[neural-network-from-scratch](https://github.com)** | Implementación de una red neuronal multicapa sin frameworks de alto nivel. | `Python` `NumPy` `Jupyter` | Álgebra lineal, funciones de activación, *loss functions* y descenso de gradiente. |
-| **[Convolutional-Network-with-ResNet](https://github.com)** | Arquitectura de Red Neuronal Convolucional con bloques residuales para visión artificial. | `Python` `Deep Learning` `Jupyter` | Extracción de características visuales y conexiones residuales (*skip connections*). |
-| **[folder-automation](https://github.com)** | Herramienta CLI para escanear, analizar y organizar archivos automáticamente por tipo. | `Python` `OS/Pathlib` | Automatización de flujos locales y gestión del sistema de archivos. |
+| **[mini-autodiff-engine](https://github.com)** | Motor minimalista de diferenciación automática construido desde cero. | `Python` `Jupyter` | Grafos computacionales dinámicos, *backpropagation* y cálculo exacto de gradientes. |
+| **[neural-network-from-scratch](https://github.com)** | Implementación de un perceptrón multicapa (MLP) sin dependencias de frameworks de ML. | `Python` `NumPy` | Álgebra lineal vectorizada, funciones de activación, *loss functions* y descenso de gradiente. |
+| **[Convolutional-Network-with-ResNet](https://github.com)** | Arquitectura de Red Neuronal Convolucional con bloques residuales para clasificación visual. | `Python` `Deep Learning` | Extracción jerárquica de características y optimización del flujo de gradientes (*skip connections*). |
+| **[folder-automation](https://github.com)** | Utilidad CLI para el escaneo, clasificación y organización automatizada de directorios. | `Python` `Pathlib` | Automatización de flujos de trabajo y gestión eficiente del sistema de archivos. |
 
 ---
 
-### 🔭 Próximos Proyectos (En Desarrollo / Roadmap)
+### Hoja de Ruta (En Desarrollo)
 
-#### 🏥 IA Médica y Visión Artificial
-- **Clasificador Bayesiano de Neumonía:** Modelo probabilístico (Naive Bayes / Redes Bayesianas) para diagnóstico asistido a partir de radiografías de tórax (*Chest X-Ray*) y variables clínicas, priorizando métricas críticas como **sensibilidad (*recall*) y calibración de incertidumbre**.
-- **Segmentación de Tejidos / Lesiones con U-Net:** Evolución hacia arquitecturas de segmentación semántica en imagen médica usando PyTorch.
+**IA Médica y Visión Artificial**
+* **Clasificador Bayesiano de Neumonía:** Modelo probabilístico (Naive Bayes / Redes Bayesianas) para apoyo al diagnóstico mediante radiografías de tórax (*Chest X-Ray*) y variables clínicas, priorizando métricas críticas como **sensibilidad (*recall*) y calibración de incertidumbre**.
+* **Segmentación Semántica con U-Net:** Implementación en PyTorch de arquitecturas encoder-decoder para la segmentación precisa de tejidos y lesiones en imagen médica.
 
-#### 🤖 Inteligencia Artificial Aplicada
-- **Sistema RAG sobre Literatura Biomédica:** Pipeline de recuperación aumentada para consultar *papers* médicos con citas verificables y control de alucinaciones.
-- **Agente de Análisis de Datos con Tool Calling:** Agente autónomo capaz de consultar datasets, ejecutar código estadístico y generar reportes automatizados.
+**Inteligencia Artificial Aplicada**
+* **Sistema RAG sobre Literatura Biomédica:** *Pipeline* de generación aumentada por recuperación para la consulta de artículos científicos con trazabilidad de fuentes y mitigación de alucinaciones.
+* **Agente de Análisis de Datos con Tool Calling:** Sistema autónomo capaz de consultar conjuntos de datos, ejecutar análisis estadísticos y generar informes técnicos automatizados.
 
-#### ⚡ Computación Paralela y Alto Rendimiento
-- **Aceleración de Operaciones Matriciales y Convoluciones con OpenMP:** Implementación en `C/C++` con directivas **OpenMP** (`#pragma omp parallel for`, reducción, planificación dinámica/estática) para paralelizar multiplicación de matrices y filtros de imagen, incluyendo análisis de *speedup* y escalabilidad según el número de hilos.
-
----
-
-### 🧩 Otros Repositorios
-- **[AdventOfCode2025](https://github.com):** Resolución de retos algorítmicos y estructuras de datos en `Java`.
-- **[Caesar-Cipher](https://github.com):** Implementación clásica de cifrado por desplazamiento en `Python`.
-
----
-
-### 📫 Contacto
-Siempre abierto a colaborar en proyectos de IA, análisis de datos biomédicos o computación de alto rendimiento. Conectemos en **[LinkedIn](https://linkedin.com)** o escríbeme a **tu@email.com**.
+**Computación Paralela y Alto Rendimiento**
+* **Aceleración de Operaciones Matriciales y Convoluciones:** Implementación en `C/C++` con directivas **OpenMP** (`#pragma omp parallel for`, cláus
