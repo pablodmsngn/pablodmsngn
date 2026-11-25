@@ -1,8 +1,8 @@
-# Pablo — Inteligencia Artificial, Deep Learning y Computación Paralela
+# Pablo — Estudiante de Ingeniería Informática | IA, Deep Learning y Computación Paralela
 
-Desarrollador especializado en **Inteligencia Artificial, Deep Learning y Computación Paralela**, orientado al diseño e implementación de sistemas desde sus fundamentos matemáticos hasta su ejecución eficiente en entornos de alto rendimiento.
+Estudiante de **Ingeniería Informática** especializado en **Inteligencia Artificial, Deep Learning y Computación Paralela**, orientado al diseño e implementación de sistemas desde sus fundamentos matemáticos hasta su ejecución eficiente en entornos de alto rendimiento.
 
-Las Palmas de Gran Canaria, España
+Las Palmas de Gran Canaria, España 
 
 ---
 
@@ -42,4 +42,15 @@ Las Palmas de Gran Canaria, España
 * **Agente de Análisis de Datos con Tool Calling:** Sistema autónomo capaz de consultar conjuntos de datos, ejecutar análisis estadísticos y generar informes técnicos automatizados.
 
 **Computación Paralela y Alto Rendimiento**
-* **Aceleración de Operaciones Matriciales y Convoluciones:** Implementación en `C/C++` con directivas **OpenMP** (`#pragma omp parallel for`, cláus
+* **Aceleración de Operaciones Matriciales y Convoluciones:** Implementación en `C/C++` con directivas **OpenMP** (`#pragma omp parallel for`, cláusulas de reducción y estrategias de planificación estática/dinámica) para la paralelización de multiplicación de matrices y filtros espaciales, incluyendo evaluación empírica de *speedup* y escalabilidad por número de hilos.
+
+---
+
+### Otros Repositorios
+* **[AdventOfCode2025](https://github.com):** Resolución de problemas algorítmicos, optimización y estructuras de datos en `Java`.
+* **[Caesar-Cipher](https://github.com):** Implementación de criptografía clásica por sustitución en `Python`.
+
+---
+
+### Contacto
+Abierto a oportunidades de prácticas, colaboración en proyectos de investigación en IA, análisis de datos biomédicos o computación de alto rendimiento. Puedes contactar a través de **[LinkedIn](https://linkedin.com)** o por correo electrónico en **[tu@email.com](mailto:tu@email.com)**.
